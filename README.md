@@ -8,7 +8,7 @@ A responsive Testimonials Grid Section built using HTML and CSS, based on the Fr
 
 Live Site: https://your-live-site-url.com
 
-Solution URL: https://www.frontendmentor.io/solutions/your-solution-link
+Solution URL: https://chetan-chaudhari.github.io/Testimonials-grid-section/
 
 🛠 Tech Stack
 
